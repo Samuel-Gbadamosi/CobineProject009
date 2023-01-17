@@ -182,7 +182,21 @@ header{
     background-size: auto;
     background-position: inherit;
     position: relative;
-
     background-size: cover; 
-    height:500px;
+    height:450px;
+}
+
+footer{
+    height: 400px;
+    background-color: black;
+}
+
+.myf{
+    list-style: none;
+font-size: 18px;
+padding-left: 1px;
+}
+
+.pp{
+font-weight: 600;
 }
