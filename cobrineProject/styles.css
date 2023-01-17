@@ -159,8 +159,8 @@ header{
 
 .buzz{
     height: 139px;
-    width: 250px;
-    font-size: 13px;
+    width: 256px;
+    font-size: 14px;
 }
 .buzz h5{
     font-size: 15px;
@@ -169,6 +169,20 @@ header{
 
 .sect6{
     height: 400px;
-    background-color:orange;
+    background-color:white;
 }
 
+.myimgj{
+    height: 300px;
+}
+
+.sect8{
+    background-image: url('./jumbo2.png');
+    background-repeat: no-repeat;
+    background-size: auto;
+    background-position: inherit;
+    position: relative;
+
+    background-size: cover; 
+    height:500px;
+}
