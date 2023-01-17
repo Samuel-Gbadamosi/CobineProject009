@@ -142,8 +142,8 @@ header{
 }
 
 .sect5{
-    height: 700px;
-    background-color: orange;
+    height: 600px;
+    background-color: white;
 }
 
 .myjumb{
@@ -165,5 +165,10 @@ header{
 .buzz h5{
     font-size: 15px;
     font-weight: 700;
+}
+
+.sect6{
+    height: 400px;
+    background-color:orange;
 }
 
