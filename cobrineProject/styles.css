@@ -183,11 +183,11 @@ header{
     background-position: inherit;
     position: relative;
     background-size: cover; 
-    height:450px;
+    /* height:450px; */
 }
 
 footer{
-    height: 400px;
+    height: 500px;
     background-color: black;
 }
 
@@ -199,4 +199,11 @@ padding-left: 1px;
 
 .pp{
 font-weight: 600;
+color: #949494;
+}
+
+.xix{
+    position: relative;
+    left: 99px;
+    top: 91px;
 }
