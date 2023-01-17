@@ -1,0 +1,143 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header{
+    height:85px;
+    background-image: url('./imgmatricheader.png');
+
+    background-color: transparent!important;
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+
+.myun{
+    display: flex;
+    justify-content: space-around;
+    list-style: none;
+    color: #acabab;
+    text-transform: uppercase;
+    font-size: 18px;
+    padding: 3px;
+}
+
+.myun li a{
+    color: #acabab;
+    text-decoration: none;
+
+}
+
+.sect1{
+    /* height: 680px; */
+}
+
+.myp{
+    background-image: url('./banner-bg.png');
+    background-repeat: no-repeat;
+    background-size: auto;
+    background-position: inherit;
+    position: relative;
+
+    background-size: cover; 
+    /* height:700px; */
+}
+
+.testbox{
+    height: 500px;
+    width: 500px;
+    background-color: white;
+}
+
+.mybox h4{
+
+    font-size: 48px;
+    font-weight: 900;
+    color: #060707;
+    padding-left: 20px;
+}
+
+.res{
+    height: 61px;
+    padding-left: 27px;
+    font-size: 14px;
+    padding-top: 11px;
+    /* background-color: orange; */
+}
+
+.mybutton{
+    height: 45px;
+    background-color: #14A25C;
+    border-radius: 26px;
+    color: white;
+    font-size: 14px;
+    width: 142px;
+}
+.mybutton2{
+    height: 45px;
+    background-color: black;
+    border-radius: 26px;
+    color: white;
+    font-size: 14px;
+    width: 142px;
+
+}
+
+.sect2{
+    height: 80px;
+    background-color: #14A25C;
+}
+
+.myicons{
+    font-size: 30px;
+}
+
+.myicons i{
+    color: white;
+}
+
+.sect3{
+    height: 150px;
+    background-color: white;
+}
+
+.myabt{
+    font-size: 33px;
+    font-weight: 700;
+    list-style: none;
+}
+.myhr{
+    width:10%;
+    height: 10px;
+    color: #0f0f0f;
+}
+
+.sect4{
+    background-color: white;
+    height: 400px;
+}
+
+.jumbotron{
+    height: 378px;
+    background-color: #14A25C;
+    width: 23%;
+    border: 1px solid #14A25C;
+    border-radius: 0px;
+}
+
+.jumbotron img{
+    height: 284px;
+    position: relative;
+    bottom: 12px;
+}
+
+.myb{
+    position: relative;
+    top: 150px;
+}
+
+.myb button{
+    float: right;
+}
+
