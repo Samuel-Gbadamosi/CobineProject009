@@ -98,7 +98,7 @@ header{
 }
 
 .sect3{
-    height: 150px;
+    /* height: 150px; */
     background-color: white;
 }
 
@@ -115,11 +115,11 @@ header{
 
 .sect4{
     background-color: white;
-    height: 400px;
+    /* height: 400px; */
 }
 
 .jumbotron{
-    height: 378px;
+    /* height: 378px; */
     background-color: #14A25C;
     width: 23%;
     border: 1px solid #14A25C;
@@ -167,7 +167,7 @@ header{
 }
 
 .sect6{
-    height: 400px;
+    /* height: 400px; */
     background-color:white;
 }
 
