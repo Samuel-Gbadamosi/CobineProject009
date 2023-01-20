@@ -167,7 +167,7 @@ header{
 }
 
 .sect6{
-    /* height: 400px; */
+     height: 400px; 
     background-color:white;
 }
 
@@ -186,7 +186,7 @@ header{
 }
 
 footer{
-    /* height: 500px; */
+    height: 500px;
     background-color: black;
 }
 

@@ -23,29 +23,7 @@
 <body>
     <!-- header sTARTS HERE -->
     <header>
-        <div class="row pt-4 ml-3 ">
-            <div class="col-2">
-                <img src="logoimgmatrix.png" alt="logo of imagecob">
-
-            </div>
-            <div class="col-6 ">
-                <div>
-                    <ul class=" myun pt-2 offset-1 ">
-                        <li><a href="index.html">Home</a></li>
-                        <li>SERVICES</li>
-                        <li>BLOG</li>
-                        <li>ABOUT</li>
-                        <li>EVENTS</li>
-                        <li>CONTACT US</li>
-                    </ul>
-                </div>
-            </div>
-            <div class="col-1 pt-1">
-                <ul class="myun">
-                    <li><i style="font-size:31px;" class="fa-solid fa-magnifying-glass"></i></li>
-                </ul>
-            </div>
-        </div>
+      <?php include('header.php') ?>
     </header>
     <!-- header ENDS HERE -->
     <!-- main -->
@@ -354,53 +332,7 @@
     </main>
     <!-- main -->
     <footer class="container-fluid ">
-        <div class="row pt-4 xix">
-            <div class="col-4 ">
-
-                <div>
-                    <ul class="d-flex myf">
-                        <li><i class="fa-solid pr-2 fa-location-dot"></i></li>
-                        <li style="color: #8e8e8e;">Location</li>
-                    </ul>
-
-                    <p class="opt">About</p>
-
-                    <p class="pp">There are many variations of passages of Lorem Ipsum available, but the majority
-                        havThere are many variations of passages of Lorem Ipsum available, but the majority hav</p>
-                </div>
-            </div>
-            <div class="col-4">
-                <div>
-                    <ul class="d-flex myf">
-                        <i class="fa-solid pr-2 pt-1 fa-phone-flip"></i>
-                        <li style="color:#8e8e8e;">Call: 01 1234567</li>
-                    </ul>
-
-                    <p class="opt" style=" font-size: 25px;">Service Link </p>
-
-                    <p class="pp">There are many variations of passages of Lorem Ipsum available, but the majority
-                        havThere are many variations of passages of Lorem Ipsum available, but the majority hav</p>
-                </div>
-
-            </div>
-            <div class="col-4">
-                <div>
-                    <ul class="d-flex myf">
-                        <i class="fa-solid pr-2 pt-1 fa-envelope"></i>
-                        <li style="color: #8e8e8e;">mail@domain.com</li>
-                    </ul>
-
-                    <p class="opt" style=" font-size: 25px;">Subscribe</p>
-
-                    <div class="pt-4">
-                        <input style="background-color:black;
-                        border: none; color:white" placeholder="Enter your Email" type="text">
-                        <hr style="color: red; width: 39%;">
-                    </div>
-                </div>
-            </div>
-        </div>
-        </div>
+        <?php include('footer.php') ?>
     </footer>
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js"
         integrity="sha384-w76AqPfDkMBDXo30jS1Sgez6pr3x5MlQ1ZAGC+nuZB+EYdgRZgiwxhTBTkF7CXvN" crossorigin="anonymous">
