@@ -1,7 +1,6 @@
 <div class="row pt-4 ml-3 ">
             <div class="col-2">
                 <img src="logoimgmatrix.png" alt="logo of imagecob">
-
             </div>
             <div class="col-6 ">
                 <div>
