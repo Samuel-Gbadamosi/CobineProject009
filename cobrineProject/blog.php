@@ -44,13 +44,10 @@
                             suffered alteration in some form, by injected humour, or randomised words There uffered
                             alteration in some form, by injected humour, or randomised words</p>
                         <button style="float: right;" type="button" class="btn btn-dark btn-lg mt-4">Read More</button>
-
                     </div>
                 </div>
-
             </div>
         </section>
-     
     </main>
     <!-- main -->
     <footer class="container-fluid ">
