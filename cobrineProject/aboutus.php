@@ -60,7 +60,6 @@
                             <button type="button" class="btn btn-dark btn-lg mt-4">Read More</button>
                         </div>
                     </div>
-
                 </div>
 
             </div>
